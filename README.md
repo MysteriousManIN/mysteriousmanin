@@ -1,4 +1,4 @@
-#### HELLO!
+#### HELLO! :wave:
 
 I am front-end web developer and designer. I build responsive and interactive website with the help of front-end web technologies and use JavaScript libraries, jQuery and ReactJS.
 
