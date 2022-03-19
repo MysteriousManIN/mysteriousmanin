@@ -7,4 +7,7 @@ I have some knowledge of PHP and MySQL so i can bulid CRUD (Create, Read, Update
 My project:
 - [Clock](https://mysteriousmanin.github.io/clock/)
 
+My certificates:
+- [Responsive Web Design](https://www.freecodecamp.org/certification/mysteriousman/responsive-web-design) from freecodecamp
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/mysteriousman/javascript-algorithms-and-data-structures) from freecodecamp
 Contact me: [Instagram](https://www.instagram.com/mysteriousman.in/)
