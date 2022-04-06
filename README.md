@@ -12,4 +12,4 @@ My certificates:
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/mysteriousman/javascript-algorithms-and-data-structures) from freecodecamp
 
 
-Contact me: [Instagram](https://www.instagram.com/mysteriousman.in/) & [LinkedIn](https://www.linkedin.com/in/MysteriousManIN)
+Contact me: [Instagram](https://www.instagram.com/MysteriousMan.IN/) & [LinkedIn](https://www.linkedin.com/in/MysteriousManIN)
