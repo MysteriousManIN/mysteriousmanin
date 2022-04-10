@@ -6,6 +6,7 @@ I have some knowledge of PHP and MySQL so i can bulid CRUD (Create, Read, Update
 
 My project:
 - [Clock](https://mysteriousmanin.github.io/clock/)
+- [Calc](https://mysteriousmanin.github.io/calc/)
 
 My certificates:
 - [Responsive Web Design](https://www.freecodecamp.org/certification/mysteriousman/responsive-web-design) from freecodecamp
