@@ -12,5 +12,7 @@ I have some knowledge of PHP and MySQL so i can bulid CRUD (Create, Read, Update
 
 **Project**
 - [Climate](https://mysteriousmanin.github.io/climate/)
+- [Password Generator](https://mysteriousmanin.github.io/password-generator/)
+
 
 Contact me on [Instagram](https://www.instagram.com/MysteriousMan.IN/) and [LinkedIn](https://www.linkedin.com/in/MysteriousManIN)
