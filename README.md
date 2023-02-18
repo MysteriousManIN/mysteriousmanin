@@ -4,11 +4,11 @@ I'm a passionate front-end developer with some UI skills. I'm based in Mathura, 
 
 I have an strong desire to build responsive, user-friendly, and interactive dynamic websites. I can also build API and CRUD application using PHP and MySQL.
 
-##### Certificates
+#### Certificates
 - [Responsive Web Design](https://www.freecodecamp.org/certification/mysteriousman/responsive-web-design)
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/mysteriousman/javascript-algorithms-and-data-structures)
 
-##### Project
+#### Project
 - [Clock](https://mysteriousmanin.github.io/clock/)
 - [Climate](https://mysteriousmanin.github.io/climate/)
 - [Password Generator](https://mysteriousmanin.github.io/password-generator/)
