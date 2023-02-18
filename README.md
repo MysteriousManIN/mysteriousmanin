@@ -19,4 +19,4 @@ I have a strong desire to create responsive, user-friendly, and interactive dyna
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MysteriousManIN) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mysteriousman.in/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetan1919149@gmail.com)
 
 &#10240;
-> "The only way to do great work is to love what you do." – Steve Jobs
+> "The only way to do `great work` is to `love` what you do." – Steve Jobs 
