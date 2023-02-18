@@ -1,4 +1,4 @@
-# Hey, I'm Chetan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+# Hey, I'm Chetan :wave:
 
 I am a passionate front-end developer with some UI skills. I am based in Mathura, Uttar Pradesh, India.
 
