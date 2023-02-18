@@ -8,13 +8,13 @@ I have a strong desire to create responsive, user-friendly, and interactive dyna
 - [Responsive Web Design](https://www.freecodecamp.org/certification/mysteriousman/responsive-web-design)
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/mysteriousman/javascript-algorithms-and-data-structures)
 
-#### Project
+#### Projects
 - [Clock](https://mysteriousmanin.github.io/clock/)
 - [Climate](https://mysteriousmanin.github.io/climate/)
 - [Password Generator](https://mysteriousmanin.github.io/password-generator/)
 - [Color Contrast Checker](https://mysteriousmanin.github.io/color-contrast-checker/)
 
-____
+-----
 
 ### Find me elsewhere
 
