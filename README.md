@@ -1,14 +1,12 @@
-#### HELLO! :wave:
+# Hey, I'm Chetan Saini :wave:
 
-I am front-end web developer and designer from India. I build responsive and interactive website with the help of front-end web technologies and use JavaScript library, jQuery.
+I'm a passionate front-end developer with some UI skills. I'm based in Mathura, India.
 
-I have some knowledge of PHP and MySQL so i can bulid CRUD (Create, Read, Update, and Delete task) app.
+I have an strong desire to build responsive, user-friendly, and interactive dynamic websites. I can also build API and CRUD application using PHP and MySQL.
 
-
-**Certificates**
-- [Responsive Web Design](https://www.freecodecamp.org/certification/mysteriousman/responsive-web-design) from freecodecamp
-- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/mysteriousman/javascript-algorithms-and-data-structures) from freecodecamp
-
+**Certificates** 
+- [Responsive Web Design](https://www.freecodecamp.org/certification/mysteriousman/responsive-web-design)
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/mysteriousman/javascript-algorithms-and-data-structures)
 
 **Project**
 - [Clock](https://mysteriousmanin.github.io/clock/)
@@ -16,5 +14,6 @@ I have some knowledge of PHP and MySQL so i can bulid CRUD (Create, Read, Update
 - [Password Generator](https://mysteriousmanin.github.io/password-generator/)
 - [Color Contrast Checker](https://mysteriousmanin.github.io/color-contrast-checker/)
 
+##### Find me elsewhere
 
-Contact me on [LinkedIn](https://www.linkedin.com/in/MysteriousManIN) and [Instagram](https://www.instagram.com/mysteriousman.in/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MysteriousManIN) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mysteriousman.in/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetan1919149@gmail.com)
