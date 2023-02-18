@@ -1,6 +1,6 @@
-# Hey, I'm Chetan Saini :wave:
+# Hey, I'm Chetan :wave:
 
-I'm a passionate front-end developer with some UI skills. I'm based in Mathura, India.
+I am a passionate front-end developer with some UI skills. I am based in Mathura, India.
 
 I have a strong desire to create responsive, user-friendly, and interactive dynamic websites. I can also build API and CRUD applications using PHP and MySQL.
 
