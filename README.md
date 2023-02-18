@@ -1,6 +1,6 @@
 # Hey, I'm Chetan :wave:
 
-I am a passionate front-end developer with some UI skills. I am based in Mathura, India.
+I am a passionate front-end developer with some UI skills. I am based in Mathura, Uttar Pradesh, India.
 
 I have a strong desire to create responsive, user-friendly, and interactive dynamic websites. I can also build API and CRUD applications using PHP and MySQL.
 
