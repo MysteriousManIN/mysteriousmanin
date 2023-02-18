@@ -2,7 +2,7 @@
 
 I'm a passionate front-end developer with some UI skills. I'm based in Mathura, India.
 
-I have an strong desire to build responsive, user-friendly, and interactive dynamic websites. I can also build API and CRUD application using PHP and MySQL.
+I have a strong desire to create responsive, user-friendly, and interactive dynamic websites. I can also build API and CRUD applications using PHP and MySQL.
 
 #### Certificates
 - [Responsive Web Design](https://www.freecodecamp.org/certification/mysteriousman/responsive-web-design)
