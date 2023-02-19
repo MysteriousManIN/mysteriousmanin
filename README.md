@@ -1,4 +1,4 @@
-# Hi, I'm Chetan :wave:
+# Hi :wave:, I'm Chetan
 
 I am a passionate front-end developer with some UI skills. I am based in Mathura, Uttar Pradesh, India.
 
