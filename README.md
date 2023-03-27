@@ -7,10 +7,11 @@ I am passionate frontend developer based in Mathura. I have a strong desire to c
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/mysteriousman/javascript-algorithms-and-data-structures)
 
 #### Projects
-- [Clock](https://mysteriousmanin.github.io/clock/)
 - [Climate](https://mysteriousmanin.github.io/climate/)
+- [Sign In/Up/Out](https://fontfamilies.netlify.app/)
 - [Password Generator](https://mysteriousmanin.github.io/password-generator/)
 - [Color Contrast Checker](https://mysteriousmanin.github.io/color-contrast-checker/)
+- [Clock](https://mysteriousmanin.github.io/clock/)
 
 ### Find me here
 
