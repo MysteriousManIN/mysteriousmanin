@@ -20,4 +20,4 @@ I am passionate frontend developer based in Mathura. I have a strong desire to c
 &#10240;
 > "The only way to do `great work` is to `love` what you do." – Steve Jobs 
 
-[mysteriousmanin.github.io](https://mysteriousmanin.github.io)[Portfolio]
+**[mysteriousmanin.github.io](https://mysteriousmanin.github.io)**
