@@ -1,6 +1,6 @@
 # Hi :wave:, My name is Chetan.
 
-I am passionate about creating interactive, user-friendly, responsive and dynamic websites that integrate with
+I am passionate about creating interactive, user friendly, responsive and dynamic websites that integrate with
 API and CRUD operations using PHP and MySQL. Sometimes, I doing enjoy some graphic designing and using this
 skill to enhance my web development projects. I am always excited to learn about new web technologies.
 
