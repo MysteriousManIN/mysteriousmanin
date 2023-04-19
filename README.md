@@ -1,6 +1,8 @@
 # Hi :wave:, My name is Chetan.
 
-I am passionate frontend developer based in Mathura. I have a strong desire to create interactive, dynamic and user friendly responsive websites. I also build API and CRUD applications using PHP and MySQL.
+I am passionate about creating interactive, user-friendly, responsive and dynamic websites that integrate with
+API and CRUD operations using PHP and MySQL. Sometimes, I doing enjoy some graphic designing and using this
+skill to enhance my web development projects. I am always excited to learn about new web technologies.
 
 #### Certificates
 - [Responsive Web Design](https://www.freecodecamp.org/certification/mysteriousman/responsive-web-design)
