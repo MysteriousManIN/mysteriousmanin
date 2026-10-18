@@ -1,25 +1,33 @@
-# Hi :wave:, My name is Chetan.
+# Hi, My name is Chetan 👋
 
-I am passionate about creating interactive, user friendly, responsive and dynamic websites that integrate with
-API and CRUD operations using PHP and MySQL. Sometimes, I doing enjoy some graphic designing and using this
-skill to enhance my web development projects. I am always excited to learn about new web technologies.
+Full Stack Developer with **3+ years of professional experience** building and maintaining web applications. Specialized in backend development using PHP and Node.js, with experience in developing REST APIs, database-driven applications, and reliable server-side solutions.
 
-#### Certificates
+I'm open to **remote opportunities, part-time roles, and freelance projects**.
+
+### 🛠️ Skills & Technologies
+
+- <b>Backend Development:</b> PHP, Laravel, CodeIgniter, Node.js<br/>
+- <b>Frontend Development:</b> JavaScript, Angular<br/>
+- <b>Database & ORM:</b> MySQL, Sequelize, Knex.js<br/>
+
+### 📦 Published NPM Package
+
+#### [mpdf-node](https://www.npmjs.com/package/mpdf-node)
+
+A pure Node.js HTML/CSS-to-PDF library featuring an end-to-end, clean-room implementation designed for compatibility with PHP mPDF.
+
+[![npm version](https://img.shields.io/npm/v/mpdf-node?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/mpdf-node)
+[![npm downloads](https://img.shields.io/npm/dm/mpdf-node?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/mpdf-node)
+
+### 🏆 Certificates
+
 - [Responsive Web Design](https://www.freecodecamp.org/certification/mysteriousman/responsive-web-design)
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/mysteriousman/javascript-algorithms-and-data-structures)
 
-#### Projects
-- [Climate](https://mysteriousmanin.github.io/climate/)
-- [Sign In/Up/Out](https://fontfamilies.netlify.app/)
-- [Password Generator](https://mysteriousmanin.github.io/password-generator/)
-- [Color Contrast Checker](https://mysteriousmanin.github.io/color-contrast-checker/)
-- [Clock](https://mysteriousmanin.github.io/clock/)
+#### 📫 Get in Touch
 
-### Find me here
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MysteriousManIN) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/MysteriousMan.IN/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetan1919149@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 &#10240;
 > "The only way to do `great work` is to `love` what you do." – Steve Jobs 
-
-**[mysteriousmanin.github.io](https://mysteriousmanin.github.io)**
